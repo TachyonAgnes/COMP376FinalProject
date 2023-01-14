@@ -11,6 +11,7 @@
 7. Make a pull request to the main branch
 8. After the pull request get reviewed, squash and merge.
 9. 
-* [Demo Video](https://youtu.be/mKe63GRVHrs)
-* [New Demo Video](https://youtu.be/9-qdBgyy6fk)
+
+* [New Demo Video1](https://www.youtube.com/watch?v=jEPX-156gRA&t=22s)
+* [New Demo Video2](https://youtu.be/9-qdBgyy6fk)
 ---
